@@ -1,2 +1,3 @@
 # Burger-File
-This is my burger site
+This is my Burger site Repository
+Author - Prachi Singhal
