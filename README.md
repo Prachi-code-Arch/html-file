@@ -1,4 +1,4 @@
 # Burger-File
 This is my Burger site Repository
 <br>
-Author - Prachi Singhal
+Author - Prachi Singhal(auth)
